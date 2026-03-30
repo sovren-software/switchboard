@@ -3,6 +3,12 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "description": "Unified messenger — native protocol bridges for WhatsApp, Telegram, and more",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sovren-software/switchboard.git"
+  },
+  "homepage": "https://sovren.software",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
